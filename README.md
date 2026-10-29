@@ -241,4 +241,4 @@ This repository serves as the official landing page for Wave Editor. The softwar
 **Get the most recent version of Wave Editor today!**
 
 ---
-**Last updated:** 2026-10-28 21:32:31 UTC
+**Last updated:** 2026-10-29 01:29:54 UTC
